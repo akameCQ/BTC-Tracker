@@ -2,7 +2,7 @@
 
 CryptoTrader is a modern and dynamic cryptocurrency technical analysis interface built with Python. It fetches asynchronous real-time data via the **Binance API** and provides investors with a quick market analysis using popular indicators.
 
-![Screenshot](screenshot.png) <!-- Save your screenshot as 'screenshot.png' in the project folder or update this name -->
+<img width="1509" height="831" alt="Ekran görüntüsü 2026-05-07 204857" src="https://github.com/user-attachments/assets/6ce6c225-ca4a-4801-8374-1569466588a6" />
 
 ## ✨ Features
 
